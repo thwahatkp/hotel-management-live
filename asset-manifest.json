@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hotel-management-live/static/css/main.eaa7ea09.css",
-    "main.js": "/hotel-management-live/static/js/main.eef309d2.js",
+    "main.js": "/hotel-management-live/static/js/main.6c1cca3a.js",
     "static/media/materialdesignicons-webfont.eot": "/hotel-management-live/static/media/materialdesignicons-webfont.52adde0de9840940801f.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.8.55": "/hotel-management-live/static/media/materialdesignicons-webfont.506bc8215df8660d8f04.ttf",
     "static/media/fa-solid-900.svg": "/hotel-management-live/static/media/fa-solid-900.18df003f90a7f1313b98.svg",
@@ -54,10 +54,10 @@
     "index.html": "/hotel-management-live/index.html",
     "static/media/sm.svg": "/hotel-management-live/static/media/sm.2f37d7cdafab66a07f974b339636418e.svg",
     "main.eaa7ea09.css.map": "/hotel-management-live/static/css/main.eaa7ea09.css.map",
-    "main.eef309d2.js.map": "/hotel-management-live/static/js/main.eef309d2.js.map"
+    "main.6c1cca3a.js.map": "/hotel-management-live/static/js/main.6c1cca3a.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa7ea09.css",
-    "static/js/main.eef309d2.js"
+    "static/js/main.6c1cca3a.js"
   ]
 }
